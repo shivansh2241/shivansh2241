@@ -1,4 +1,4 @@
-# 🚀 Shivansh Mishra
+#  Shivansh Mishra
 ### **Founder & Tech Lead at GLOCYBS & Vidyazon**
 **Architect of BIQUA, GFLEA & QUBISA | Quantum + AI Innovator | Rust, Go, Python | AI/ML**
 
