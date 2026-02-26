@@ -1,4 +1,4 @@
-# 🚀 About Me
+# About Me
 
 I am **Shivansh Mishra**, the **Founder & Director at GLOCYBS**, working at the high-stakes intersection of **Quantum Computing, Cybersecurity, and Artificial Intelligence**. My mission is to architect next-generation digital infrastructure that isn't just scalable, but inherently future-proof. I am a passionate Backend Developer and AI enthusiast who specializes in building secure, high-performance, and futuristic technology ecosystems. My focus combines quantum-enhanced algorithms, AI-driven automation, and blockchain-backed validation for robust digital infrastructure.
 
