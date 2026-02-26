@@ -1,49 +1,45 @@
-# Shivansh Mishra
-### **Founder & Tech Lead at GLOCYBS**
-**Architect of BIQUA, GFLEA & QUBISA | Quantum + AI Innovator | Rust, Go, Python | AI/ML**
+# 🚀 About Me
 
-I am a deep-tech architect focused on building the intersection of **Quantum-enhanced algorithms, AI-driven automation, and secure distributed architectures**. I lead multi-disciplinary teams to create future-proof digital infrastructure.
+I am **Shivansh Mishra**, the **Founder & Director at GLOCYBS**, working at the high-stakes intersection of **Quantum Computing, Cybersecurity, and Artificial Intelligence**. My mission is to architect next-generation digital infrastructure that isn't just scalable, but inherently future-proof. I am a passionate Backend Developer and AI enthusiast who specializes in building secure, high-performance, and futuristic technology ecosystems. My focus combines quantum-enhanced algorithms, AI-driven automation, and blockchain-backed validation for robust digital infrastructure.
+
+* 🔭 **Founder of GLOCYBS & BIQUA:** Architecting next-gen security ecosystems under my primary deep-tech organization.
+* 🌱 **Focus:** Quantum Computing research (amplitude amplification, Post-Quantum Cryptography) and advanced cybersecurity automation systems.
+* 🛠️ **Major Work:** Created the **G-FLEA** swarm mobility infrastructure and the **Vidyazon** standalone education platform.
+* 🤖 **Exploring:** Autonomous security via QUBISA (Quantum-Enhanced AI) to neutralize AI-driven attacks.
+* 🎯 **Vision:** To build globally scalable infrastructure that integrates AI and Quantum into one unified intelligent ecosystem.
 
 ---
 
 # 🏢 THE GLOCYBS ECOSYSTEM (Deep-Tech & Cyber)
 
-**GLOCYBS** is my primary organization, serving as a specialized hub for Quantum Computing and Cybersecurity innovation.
+**GLOCYBS** serves as my primary deep-tech organization, acting as a specialized hub for Quantum Computing and Cybersecurity innovation.
 
-### 📊 Project Portfolio & Tech Stack
+### 📊 Project Portfolio at a Glance
 
-| Initiative | Core Mission | Primary Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ BIQUA** | 5-Pillar Security | **Quantum + AI + Blockchain (Solidity) + Cyber** |
-| **🤖 QUBISA** | Autonomous Security | **Python (AI) + Quantum Algorithms + Go** |
-| **🦂 G-FLEA** | Swarm Mobility | **C (Firmware) + Go (Backend) + Real-time Data** |
-| **⚛️ G-QBS Lab** | Quantum R&D | **Quantum-Inspired Computing + Cryptography** |
+| Initiative | Core Mission | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **🛡️ BIQUA** | 5-Pillar Security Architecture | **Go + Python + Quantum + Solidity** | **Live** |
+| **🤖 QUBISA** | Quantum-Enhanced AI | **Python (AI) + Quantum Algorithms** | **Live** |
+| **🦂 G-FLEA** | Swarm Mobility Infrastructure | **C (Firmware) + Go (Backend)** | **In Dev** |
+| **⚛️ G-QBS Lab** | Quantum R&D Facility | Grover's Algo, PQC, Amplitude Amplification | **Active** |
 
 ---
 
 ## 🛡️ [BIQUA](https://www.glocybs.com/biqua) — The 4-Tech Integration
-BIQUA is a proprietary ecosystem where four distinct technologies converge:
-* **[B]lockchain:** Built with **Solidity** for smart contract audits and immutable security logs.
-* **[I]nnovation:** Advanced backend logic using **Go** and **C** for high-performance threat hunting.
-* **[Q]uantum:** Post-quantum cryptographic implementations and search optimization.
-* **[A]I:** Predictive threat models built in **Python**.
-* **Auth & Security:** Secured via **Redis + JWT** for stateless, high-speed authentication.
-
-## 🤖 [QUBISA](https://www.glocybs.com/qubisa) — Quantum-Enhanced AI
-A paradigm shift in enterprise security. Developed by **GLOCYBS**, QUBISA integrates quantum computing principles with advanced machine learning to anticipate and neutralize AI-driven attacks.
-
-## 🦂 [G-FLEA](https://www.glocybs.com/quantumcomputing) — Swarm Mobility
-Inspired by biological swarm intelligence, G-FLEA is an upcoming mobility infrastructure that functions as both an attacker (proactive testing) and respondent (reactive optimization).
-
-## ⚛️ [G-QBS Lab](https://gqbs.glocybs.com/)
-Our dedicated research facility focused on refining Quantum Search algorithms, optimizing amplitude amplification, and post-quantum cryptography.
+A revolutionary cybersecurity platform where four distinct technologies converge to create ultimate protection:
+* **[B]lockchain:** Built with **Solidity** for immutable security logs and quantum-secure consensus.
+* **[I]nnovation (Cyber):** High-performance backend using **Go** and **C** for proactive threat hunting.
+* **[Q]uantum:** Future-ready encryption resistant to quantum attacks and enhanced data integrity.
+* **[A]I:** Predictive analytics and automated incident response models built in **Python**.
+* **Auth & Security:** Secured via **Redis + JWT** for stateless, high-speed authentication across the platform.
 
 ---
 
 # 📚 [Vidyazon](https://www.vidyazon.com/) — Standalone Ed-Tech
-A separate, high-scale digital education and management platform.
-* **Backend:** Scalable **Golang** architecture.
-* **Security:** **Redis + JWT** authentication with protected route logic.
+A separate, high-scale digital education and management platform I built with a focus on scalable architecture and secure access.
+* **Backend:** Secured **Golang** architecture with microservices.
+* **Security:** Implements **Redis + JWT** authentication, email verification, and OTP flows.
+* **Infrastructure:** Hosted on AWS (EC2, S3, RDS) for high availability and performance.
 
 ---
 
@@ -52,21 +48,25 @@ A separate, high-scale digital education and management platform.
 ### 💻 Core Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🔐 Auth & Middleware
+### 🔐 Auth & Cybersecurity
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Focus:** Ethical Hacking, Threat Modeling, Zero Trust Architecture, Post-Quantum Cryptography, and Admin authentication systems.
 
-### ☁️ AWS & Infrastructure
+### ☁️ AWS Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SES](https://img.shields.io/badge/Amazon_SES-DD344C?style=for-the-badge&logo=amazonses&logoColor=white)
 ![Self-Hosted](https://img.shields.io/badge/Server-Self--Hosted-blue?style=for-the-badge&logo=linux)
 
 ---
@@ -77,8 +77,12 @@ A separate, high-scale digital education and management platform.
   <a href="https://www.linkedin.com/in/shivansh-ninja/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shivansh@glocybs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@shivanshm442"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://shivansh.glocybs.co.in/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://shivansh.glocybs.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
+
+> **Explore my work:**
+> 🌐 **Corporate:** [glocybs.com](https://glocybs.com) | **Ed-Tech:** [vidyazon.com](https://vidyazon.com)  
+> 🛡️ *Securing the Future through Quantum & AI.*
 
 ---
 ⭐ **Building beyond conventional limits.**
